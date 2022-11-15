@@ -1,0 +1,13 @@
+C:\Users\anton\source\repos\The robot namer\The robot namer\obj\Debug\netcoreapp3.1\The robot namer.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\The robot namer\The robot namer\obj\Debug\netcoreapp3.1\The robot namer.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\The robot namer\The robot namer\obj\Debug\netcoreapp3.1\The robot namer.AssemblyInfo.cs
+C:\Users\anton\source\repos\The robot namer\The robot namer\obj\Debug\netcoreapp3.1\The robot namer.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\The robot namer\The robot namer\bin\Debug\netcoreapp3.1\The robot namer.exe
+C:\Users\anton\source\repos\The robot namer\The robot namer\bin\Debug\netcoreapp3.1\The robot namer.deps.json
+C:\Users\anton\source\repos\The robot namer\The robot namer\bin\Debug\netcoreapp3.1\The robot namer.runtimeconfig.json
+C:\Users\anton\source\repos\The robot namer\The robot namer\bin\Debug\netcoreapp3.1\The robot namer.runtimeconfig.dev.json
+C:\Users\anton\source\repos\The robot namer\The robot namer\bin\Debug\netcoreapp3.1\The robot namer.dll
+C:\Users\anton\source\repos\The robot namer\The robot namer\bin\Debug\netcoreapp3.1\The robot namer.pdb
+C:\Users\anton\source\repos\The robot namer\The robot namer\obj\Debug\netcoreapp3.1\The robot namer.dll
+C:\Users\anton\source\repos\The robot namer\The robot namer\obj\Debug\netcoreapp3.1\The robot namer.pdb
+C:\Users\anton\source\repos\The robot namer\The robot namer\obj\Debug\netcoreapp3.1\The robot namer.genruntimeconfig.cache
