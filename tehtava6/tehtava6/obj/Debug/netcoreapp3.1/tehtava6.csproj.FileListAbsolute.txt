@@ -1,0 +1,13 @@
+C:\Users\anton\source\repos\tehtava6\tehtava6\bin\Debug\netcoreapp3.1\tehtava6.exe
+C:\Users\anton\source\repos\tehtava6\tehtava6\bin\Debug\netcoreapp3.1\tehtava6.deps.json
+C:\Users\anton\source\repos\tehtava6\tehtava6\bin\Debug\netcoreapp3.1\tehtava6.runtimeconfig.json
+C:\Users\anton\source\repos\tehtava6\tehtava6\bin\Debug\netcoreapp3.1\tehtava6.runtimeconfig.dev.json
+C:\Users\anton\source\repos\tehtava6\tehtava6\bin\Debug\netcoreapp3.1\tehtava6.dll
+C:\Users\anton\source\repos\tehtava6\tehtava6\bin\Debug\netcoreapp3.1\tehtava6.pdb
+C:\Users\anton\source\repos\tehtava6\tehtava6\obj\Debug\netcoreapp3.1\tehtava6.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\tehtava6\tehtava6\obj\Debug\netcoreapp3.1\tehtava6.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\tehtava6\tehtava6\obj\Debug\netcoreapp3.1\tehtava6.AssemblyInfo.cs
+C:\Users\anton\source\repos\tehtava6\tehtava6\obj\Debug\netcoreapp3.1\tehtava6.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\tehtava6\tehtava6\obj\Debug\netcoreapp3.1\tehtava6.dll
+C:\Users\anton\source\repos\tehtava6\tehtava6\obj\Debug\netcoreapp3.1\tehtava6.pdb
+C:\Users\anton\source\repos\tehtava6\tehtava6\obj\Debug\netcoreapp3.1\tehtava6.genruntimeconfig.cache
