@@ -1,0 +1,13 @@
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.exe
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.deps.json
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.runtimeconfig.json
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.runtimeconfig.dev.json
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.dll
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.pdb
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.AssemblyInfoInputs.cache
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.AssemblyInfo.cs
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.csproj.CoreCompileInputs.cache
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.dll
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.pdb
+C:\Users\s2001036\source\repos\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.genruntimeconfig.cache
