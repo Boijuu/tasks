@@ -1,0 +1,14 @@
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\bin\Debug\netcoreapp3.1\tehtava10.exe
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\bin\Debug\netcoreapp3.1\tehtava10.deps.json
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\bin\Debug\netcoreapp3.1\tehtava10.runtimeconfig.json
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\bin\Debug\netcoreapp3.1\tehtava10.runtimeconfig.dev.json
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\bin\Debug\netcoreapp3.1\tehtava10.dll
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\bin\Debug\netcoreapp3.1\tehtava10.pdb
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\obj\Debug\netcoreapp3.1\tehtava10.csproj.AssemblyReference.cache
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\obj\Debug\netcoreapp3.1\tehtava10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\obj\Debug\netcoreapp3.1\tehtava10.AssemblyInfoInputs.cache
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\obj\Debug\netcoreapp3.1\tehtava10.AssemblyInfo.cs
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\obj\Debug\netcoreapp3.1\tehtava10.csproj.CoreCompileInputs.cache
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\obj\Debug\netcoreapp3.1\tehtava10.dll
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\obj\Debug\netcoreapp3.1\tehtava10.pdb
+C:\Users\s2001036\source\repos\tehtava10\tehtava10\obj\Debug\netcoreapp3.1\tehtava10.genruntimeconfig.cache
