@@ -1,0 +1,14 @@
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\bin\Debug\netcoreapp3.1\tehatava9.exe
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\bin\Debug\netcoreapp3.1\tehatava9.deps.json
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\bin\Debug\netcoreapp3.1\tehatava9.runtimeconfig.json
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\bin\Debug\netcoreapp3.1\tehatava9.runtimeconfig.dev.json
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\bin\Debug\netcoreapp3.1\tehatava9.dll
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\bin\Debug\netcoreapp3.1\tehatava9.pdb
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\obj\Debug\netcoreapp3.1\tehatava9.csproj.AssemblyReference.cache
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\obj\Debug\netcoreapp3.1\tehatava9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\obj\Debug\netcoreapp3.1\tehatava9.AssemblyInfoInputs.cache
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\obj\Debug\netcoreapp3.1\tehatava9.AssemblyInfo.cs
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\obj\Debug\netcoreapp3.1\tehatava9.csproj.CoreCompileInputs.cache
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\obj\Debug\netcoreapp3.1\tehatava9.dll
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\obj\Debug\netcoreapp3.1\tehatava9.pdb
+C:\Users\s2001036\source\repos\tehatava9\tehatava9\obj\Debug\netcoreapp3.1\tehatava9.genruntimeconfig.cache
