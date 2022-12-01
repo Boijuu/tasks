@@ -1,0 +1,15 @@
+/Users/cabbage/Projects/hhhhh/hhhhh/bin/Debug/net7.0/hhhhh
+/Users/cabbage/Projects/hhhhh/hhhhh/bin/Debug/net7.0/hhhhh.deps.json
+/Users/cabbage/Projects/hhhhh/hhhhh/bin/Debug/net7.0/hhhhh.runtimeconfig.json
+/Users/cabbage/Projects/hhhhh/hhhhh/bin/Debug/net7.0/hhhhh.dll
+/Users/cabbage/Projects/hhhhh/hhhhh/bin/Debug/net7.0/hhhhh.pdb
+/Users/cabbage/Projects/hhhhh/hhhhh/obj/Debug/net7.0/hhhhh.csproj.AssemblyReference.cache
+/Users/cabbage/Projects/hhhhh/hhhhh/obj/Debug/net7.0/hhhhh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cabbage/Projects/hhhhh/hhhhh/obj/Debug/net7.0/hhhhh.AssemblyInfoInputs.cache
+/Users/cabbage/Projects/hhhhh/hhhhh/obj/Debug/net7.0/hhhhh.AssemblyInfo.cs
+/Users/cabbage/Projects/hhhhh/hhhhh/obj/Debug/net7.0/hhhhh.csproj.CoreCompileInputs.cache
+/Users/cabbage/Projects/hhhhh/hhhhh/obj/Debug/net7.0/hhhhh.dll
+/Users/cabbage/Projects/hhhhh/hhhhh/obj/Debug/net7.0/refint/hhhhh.dll
+/Users/cabbage/Projects/hhhhh/hhhhh/obj/Debug/net7.0/hhhhh.pdb
+/Users/cabbage/Projects/hhhhh/hhhhh/obj/Debug/net7.0/hhhhh.genruntimeconfig.cache
+/Users/cabbage/Projects/hhhhh/hhhhh/obj/Debug/net7.0/ref/hhhhh.dll
